@@ -1,0 +1,1 @@
+signup for stripe payment service
